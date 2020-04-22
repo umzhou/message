@@ -13,6 +13,7 @@
             "name": "Yuki",
             "email": "756729874@qq.com"
         }
+
     ],
     "minimum-stability": "dev",
     "require": {
